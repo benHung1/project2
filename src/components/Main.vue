@@ -8,7 +8,7 @@ import Popup from "../components/Popup.vue";
     class="w-full flex justify-center flex-col items-center bg-[url('https://acts.setn.com/event/setnappcoin/images/bg-blue.png')] bg-no-repeat bg-center bg-cover bg-[#f5f5dc]"
   >
     <div class="mt-[20px] relative">
-      <img src="../assets/prize-list-btn.png" alt="" />
+      <img src="../assets/prize-list-btn.png" alt="error" />
       <img
         src="../assets/finger.png"
         alt=""
