@@ -28,6 +28,10 @@
         <h1 class="bg-blue-500 p-4 rounded-xl">獎項</h1>
         <p class="text-black">活動編號</p>
       </div>
+      <div class="block m-auto w-[10%]">
+        <h1 class="bg-blue-500 p-4 rounded-xl">獎項</h1>
+        <p class="text-black">活動編號</p>
+      </div>
     </div>
   </div>
 </template>
