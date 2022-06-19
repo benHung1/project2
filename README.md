@@ -1,7 +1,7 @@
 # project2
 
 ## Project setup
-```tt
+```ttt
 yarn install
 ```
 
