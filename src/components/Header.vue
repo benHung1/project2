@@ -2,11 +2,11 @@
 
 <template lang="">
   <div class="h-[90px] bg-purple-400 w-full">
-    <div class="flex justify-between items-center w-[87%] h-full">
+    <div class="flex justify-between items-center w-full h-full">
       <img
         src="../assets/titlelogo.png"
         alt=""
-        class="w-[265px] h-[42px] pl-8"
+        class="w-full md:max-w-[265px] h-[42px] md:ml-8"
       />
       <a
         target="_blank"
@@ -15,7 +15,7 @@
         <img
           src="../assets/header-btuuon.png"
           alt=""
-          class="w-[161px] h-[60px]"
+          class="w-full md:max-w-[161px] h-[60px] md:mr-8"
         />
       </a>
     </div>
